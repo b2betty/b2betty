@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Betelhem Damtew!</h1>
 <p align="center">
-  🌱i am Junior Software Developer 👩‍💻 <br>
+  🌱i am Software Developer 👩‍💻 <br>
   🎓 Currently i am attending SoftwareEngineering at BIT University of Bahrdar <br>
   📫 You can reach me at:
 </p>
